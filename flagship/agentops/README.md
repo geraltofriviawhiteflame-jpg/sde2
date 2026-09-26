@@ -4,6 +4,7 @@ Production-grade agent orchestration platform: register AI agents that call tool
 
 - **Design doc:** [`docs/DESIGN.md`](docs/DESIGN.md)
 - **Decision log:** [`docs/DECISIONS.md`](docs/DECISIONS.md)
+- **Build guides (start here each session):** [`docs/steps/README.md`](docs/steps/README.md)
 
 ## Stack
 

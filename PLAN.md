@@ -23,6 +23,8 @@
 
 ## Track B — Build (flagship: `flagship/agentops/`)
 
+**Step-by-step guides with designs & acceptance criteria: `flagship/agentops/docs/steps/README.md`** — start every session there. Step 1 (foundations) is DONE and has a study guide for understanding the code.
+
 Milestones (details in `flagship/agentops/docs/DESIGN.md`):
 
 - [ ] **M1 — Week 1 (by Sep 30):** design doc v1, repo scaffold, FastAPI service up, Postgres schema (runs/steps/idempotency_keys), GitHub Actions CI green
